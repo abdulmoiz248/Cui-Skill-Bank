@@ -1,4 +1,4 @@
-# Employee Registration System
+# Employee Skill Registration System
 
 ## Overview
 The Employee Registration System is a console-based program designed to streamline the registration process for employees and staff members. This program enables employees to input their skills and specify skills they are looking to acquire. Staff members are responsible for matching employees based on their skill sets. The collected data, including employee skills and matches, is presented to the director. Additionally, the program facilitates community activities and allows users to submit queries, which are addressed by the staff members.This was my first OOP assignment
